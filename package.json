@@ -1,0 +1,23 @@
+{
+  "name": "about_firebase",
+  "version": "1.0.0",
+  "description": "firebase에 대해 알아보자 version 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunjin-kim/About_Firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunjin-kim/About_Firebase/issues"
+  },
+  "homepage": "https://github.com/yunjin-kim/About_Firebase#readme",
+  "dependencies": {
+    "firebase": "^9.6.1",
+    "firebase-tools": "^10.0.1"
+  }
+}
